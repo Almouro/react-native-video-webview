@@ -1,0 +1,22 @@
+{
+  "name": "react-native-video-webview",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamlab/react-native-video-webview.git"
+  },
+  "keywords": [
+    "react-native",
+    "android"
+  ],
+  "peerDependencies": {
+    "react-native": ">=v0.40.0"
+  },
+  "author": "Almouro <contact@almouro.com> (almouro.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bamlab/react-native-video-webview/issues"
+  },
+  "homepage": "https://github.com/bamlab/react-native-video-webview#readme"
+}
